@@ -43,7 +43,7 @@ https://templatemo.com/tm-566-medic-care
     <body id="top">
     
         <main>
-
+            <h1>Divine Dental</h1>
             <nav class="navbar navbar-expand-lg bg-light fixed-top shadow-lg">
                 <div class="container">
                     <a class="navbar-brand mx-auto d-lg-none" href="index.html">
