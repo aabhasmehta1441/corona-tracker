@@ -13,7 +13,7 @@
         <meta name="description" content="">
         <meta name="author" content="">
 
-        <title>Medic Care Bootstrap 5 CSS Template</title>
+        <title>Divine Dental</title>
 
         <!-- CSS FILES -->        
         <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -47,7 +47,7 @@ https://templatemo.com/tm-566-medic-care
             <nav class="navbar navbar-expand-lg bg-light fixed-top shadow-lg">
                 <div class="container">
                     <a class="navbar-brand mx-auto d-lg-none" href="index.html">
-                        Medic Care
+                        Dr. Akshit Grover
                         <strong class="d-block">Health Specialist</strong>
                     </a>
 
