@@ -45,7 +45,7 @@
   <div class="hero_area">
 
     <div class="hero_bg_box">
-      <img src="images/dental-office-header.jpg" alt="">
+      <img src="images/11769.jpg" alt="">
     </div>
 
     <!-- header section strats -->
