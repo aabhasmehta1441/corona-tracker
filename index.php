@@ -65,19 +65,19 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav">
               <li class="nav-item active">
-                <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="index.html" style="color:black;">Home <span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="about.html"> About</a>
+                <a class="nav-link" href="about.html" style="color:black;"> About</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="departments.html">Departments</a>
+                <a class="nav-link" href="departments.html" style="color:black;">Departments</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="doctors.html">Doctors</a>
+                <a class="nav-link" href="doctors.html" style="color:black;">Doctors</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact.html">Contact Us</a>
+                <a class="nav-link" href="contact.html" style="color:black;">Contact Us</a>
               </li>
               <form class="form-inline">
                 <button class="btn  my-2 my-sm-0 nav_search-btn" type="submit">
@@ -102,7 +102,7 @@
                     <h1 style="color:black;">
                       We Provide Best Healthcare
                     </h1>
-                    <p>
+                    <p style="color:black;">
                       Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.
                     </p>
                     <div class="btn-box">
