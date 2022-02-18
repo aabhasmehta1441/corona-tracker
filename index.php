@@ -447,7 +447,7 @@
       </div> -->
       <div class="btn_box">
               <a href="https://wa.me/919810413883" target="_blank" class="elementor-button-link elementor-button elementor-size-lg" role="button">
-                <button style="bacground-color: #178066, padding: 10px">
+                <button style="background-color: #178066">
                   MAKE AN APPOINTMENT
                 </button>
               </a>
@@ -563,19 +563,19 @@
               <a href="">
                 <i class="fa fa-map-marker" aria-hidden="true"></i>
                 <span>
-                  Location
+                SCO-14, 1st Floor, Adore Grand, Sector 85, Faridabad 121002. Haryana.
                 </span>
               </a>
               <a href="">
                 <i class="fa fa-phone" aria-hidden="true"></i>
                 <span>
-                  Call +01 1234567890
+                  Call 9910770506
                 </span>
               </a>
               <a href="">
                 <i class="fa fa-envelope" aria-hidden="true"></i>
                 <span>
-                  demo@gmail.com
+                drakshitgrover@gmail.com
                 </span>
               </a>
             </div>
@@ -595,7 +595,7 @@
             </a>
           </div>
         </div>
-        <div class="col-md-6 col-lg-3 footer_col">
+        <!-- <div class="col-md-6 col-lg-3 footer_col">
           <div class="footer_detail">
             <h4>
               About
@@ -604,7 +604,7 @@
               Beatae provident nobis mollitia magnam voluptatum, unde dicta facilis minima veniam corporis laudantium alias tenetur eveniet illum reprehenderit fugit a delectus officiis blanditiis ea.
             </p>
           </div>
-        </div>
+        </div> -->
         <div class="col-md-6 col-lg-2 mx-auto footer_col">
           <div class="footer_link_box">
             <h4>
@@ -641,12 +641,12 @@
           </form>
         </div>
       </div>
-      <div class="footer-info">
+      <!-- <div class="footer-info">
         <p>
           &copy; <span id="displayYear"></span> All Rights Reserved By
           <a href="https://html.design/">Free Html Templates</a>
         </p>
-      </div>
+      </div> -->
     </div>
   </footer>
   <!-- footer section -->
