@@ -38,6 +38,12 @@
   <!-- responsive style -->
   <link href="css/responsive.css" rel="stylesheet" />
 
+  <style>
+    body{
+      color: black;
+    }
+  </style>
+
 </head>
 
 <body>
