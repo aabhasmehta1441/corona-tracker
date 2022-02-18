@@ -50,7 +50,7 @@
 
     <!-- header section strats -->
     <header class="header_section">
-      <div class="container">
+      <div class="container" style="background-color:white;">
         <nav class="navbar navbar-expand-lg custom_nav-container ">
           <a class="navbar-brand" href="index.html" style="color:black;">
             <span>
@@ -349,9 +349,9 @@
                   <i class="fa fa-linkedin" aria-hidden="true"></i>
                 </a>
               </div>
-              <h5>
+              <h4>
               Dr. Akshit Grover
-              </h5>
+              </h4>
               <h6 class="">
               BDS, PGCOI(MCODS)
               </h6>
