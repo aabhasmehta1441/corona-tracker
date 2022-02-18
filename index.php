@@ -274,14 +274,11 @@
               </h2>
             </div>
             <p>
-              There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
-              in some form, by injected humour, or randomised words which don't look even slightly believable. If you
-              are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in
-              the middle of text. All
+            From dental hygienists and dental assistants to our lab technicians and office staff, we show that the best customer experience comes from a genuine care and concern. Our goal is to ensure every appointment is comfortable, relieves any discomfort or gives you the smile you've always wanted! 
             </p>
-            <a href="">
+            <!-- <a href="">
               Read More
-            </a>
+            </a> -->
           </div>
         </div>
       </div>
@@ -303,7 +300,7 @@
         </p>
       </div>
       <div class="row">
-        <div class="col-sm-6 col-lg-4 mx-auto">
+        <!-- <div class="col-sm-6 col-lg-4 mx-auto">
           <div class="box">
             <div class="img-box">
               <img src="images/d1.jpg" alt="">
@@ -331,7 +328,7 @@
               </h6>
             </div>
           </div>
-        </div>
+        </div> -->
         <div class="col-sm-6 col-lg-4 mx-auto">
           <div class="box">
             <div class="img-box">
@@ -353,15 +350,15 @@
                 </a>
               </div>
               <h5>
-                Adam View
+              Dr. Akshit Grover
               </h5>
               <h6 class="">
-                Doctor
+              BDS, PGCOI(MCODS)
               </h6>
             </div>
           </div>
         </div>
-        <div class="col-sm-6 col-lg-4 mx-auto">
+        <!-- <div class="col-sm-6 col-lg-4 mx-auto">
           <div class="box">
             <div class="img-box">
               <img src="images/d3.jpg" alt="">
@@ -389,7 +386,7 @@
               </h6>
             </div>
           </div>
-        </div>
+        </div> -->
       </div>
       <div class="btn-box">
         <a href="">
