@@ -49,8 +49,8 @@
     </div>
 
     <!-- header section strats -->
-    <header class="header_section">
-      <div class="container" style="background-color:white;">
+    <header class="header_section" style="background-color:white;">
+      <div class="container" >
         <nav class="navbar navbar-expand-lg custom_nav-container ">
           <a class="navbar-brand" href="index.html" style="color:black;">
             <span>
