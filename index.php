@@ -92,7 +92,8 @@
     <!-- end header section -->
     <!-- slider section -->
     <section class="slider_section ">
-      <div id="customCarousel1" class="carousel slide" data-ride="carousel" style="background-color: rgba(0, 0, 0, .5);">
+      <div id="customCarousel1" class="carousel slide" data-ride="carousel" >
+      <!-- style="background-color: rgba(0, 0, 0, .5);" -->
         <div class="carousel-inner">
           <div class="carousel-item active">
             <div class="container ">
@@ -445,13 +446,13 @@
           </div>
         </div>
       
-        <div class="btn_box">
+        <!-- <div class="btn_box">
               <a href="https://wa.me/test" target="_blank" class="elementor-button-link elementor-button elementor-size-lg" role="button">
                 <button style="background-color: #178066">
                   MAKE AN APPOINTMENT
                 </button>
               </a>
-        </div>
+          </div> -->
       </div>
     </div>
   </section>
