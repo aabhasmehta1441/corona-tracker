@@ -407,7 +407,7 @@
           GET IN TOUCH
         </h2>
       </div>
-      <!-- <div class="row">
+      <div class="row">
         <div class="col-md-6">
           <div class="form_container contact-form">
             <form action="">
@@ -444,14 +444,15 @@
             </div>
           </div>
         </div>
-      </div> -->
-      <div class="btn_box">
+      
+        <div class="btn_box">
               <a href="https://wa.me/test" target="_blank" class="elementor-button-link elementor-button elementor-size-lg" role="button">
                 <button style="background-color: #178066">
                   MAKE AN APPOINTMENT
                 </button>
               </a>
-              </div>
+        </div>
+      </div>
     </div>
   </section>
   <!-- end contact section -->
