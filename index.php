@@ -99,7 +99,7 @@
               <div class="row">
                 <div class="col-md-7">
                   <div class="detail-box">
-                    <h1 style="color:black;">
+                    <h1>
                       We Provide Best Healthcare
                     </h1>
                     <p style="color:black;">
