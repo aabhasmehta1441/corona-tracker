@@ -38,12 +38,6 @@
   <!-- responsive style -->
   <link href="css/responsive.css" rel="stylesheet" />
 
-  <style>
-    body{
-      color: black;
-    }
-  </style>
-
 </head>
 
 <body>
@@ -60,7 +54,7 @@
         <nav class="navbar navbar-expand-lg custom_nav-container ">
           <a class="navbar-brand" href="index.html">
             <span>
-              Orthoc
+              DIVINE DENTAL CARE
             </span>
           </a>
 
