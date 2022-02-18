@@ -446,9 +446,11 @@
         </div>
       </div> -->
       <div class="btn_box">
-                <button>
+              <a href="https://wa.me/919810413883" target="_blank" class="elementor-button-link elementor-button elementor-size-lg" role="button">
+                <button style="bacground-color: #178066, padding: 10px">
                   MAKE AN APPOINTMENT
                 </button>
+              </a>
               </div>
     </div>
   </section>
