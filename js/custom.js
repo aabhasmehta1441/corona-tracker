@@ -1,68 +1,46 @@
+// to get current year
+function getYear() {
+    var currentDate = new Date();
+    var currentYear = currentDate.getFullYear();
+    document.querySelector("#displayYear").innerHTML = currentYear;
+}
 
-  (function ($) {
-  
-  "use strict";
+getYear();
 
-    // NAVBAR
-    $('.navbar-nav .nav-link').click(function(){
-        $(".navbar-collapse").collapse('hide');
-    });
 
-    // REVIEWS CAROUSEL
-    $('.reviews-carousel').owlCarousel({
-        center: true,
-        loop: true,
-        nav: true,
-        dots: false,
-        autoplay: true,
-        autoplaySpeed: 300,
-        smartSpeed: 500,
-        responsive:{
-          0:{
-            items:1,
-          },
-          768:{
-            items:2,
-            margin: 100,
-          },
-          1280:{
-            items:2,
-            margin: 100,
-          }
+// client section owl carousel
+$(".client_owl-carousel").owlCarousel({
+    loop: true,
+    margin: 0,
+    dots: false,
+    nav: true,
+    navText: [],
+    autoplay: true,
+    autoplayHoverPause: true,
+    navText: [
+        '<i class="fa fa-angle-left" aria-hidden="true"></i>',
+        '<i class="fa fa-angle-right" aria-hidden="true"></i>'
+    ],
+    responsive: {
+        0: {
+            items: 1
+        },
+        600: {
+            items: 1
+        },
+        1000: {
+            items: 2
         }
-    });
-
-    // Banner Carousel
-    var myCarousel = document.querySelector('#myCarousel')
-    var carousel = new bootstrap.Carousel(myCarousel, {
-      interval: 1500,
-    })
-
-    // REVIEWS NAVIGATION
-    function ReviewsNavResize(){
-      $(".navbar").scrollspy({ offset: -94 });
-
-      var ReviewsOwlItem = $('.reviews-carousel .owl-item').width();
-
-      $('.reviews-carousel .owl-nav').css({'width' : (ReviewsOwlItem) + 'px'});
     }
+});
 
-    $(window).on("resize", ReviewsNavResize);
-    $(document).on("ready", ReviewsNavResize);
 
-    // HREF LINKS
-    $('a[href*="#"]').click(function (event) {
-      if (
-        location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
-        var target = $(this.hash);
-        target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-        if (target.length) {
-          event.preventDefault();
-          $('html, body').animate({
-            scrollTop: target.offset().top - 74
-          }, 1000);
-        }
-      }
-    });
-    
-  })(window.jQuery);
+
+/** google_map js **/
+function myMap() {
+    var mapProp = {
+        center: new google.maps.LatLng(40.712775, -74.005973),
+        zoom: 18,
+    };
+    var map = new google.maps.Map(document.getElementById("googleMap"), mapProp);
+}
