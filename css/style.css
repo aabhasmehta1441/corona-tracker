@@ -2,7 +2,7 @@
 body {
   font-family: 'Nunito', sans-serif;
   color: #000000;
-  background-color: #000000;
+  background-color: #fefefe;
   overflow-x: hidden;
 }
 
@@ -177,7 +177,7 @@ a:focus {
   height: 35px;
   padding: 0;
   border: none;
-  color: #000000;
+  color: #ffffff;
 }
 
 .custom_nav-container .nav_search-btn:hover {
