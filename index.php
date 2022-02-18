@@ -54,7 +54,7 @@
         <nav class="navbar navbar-expand-lg custom_nav-container ">
           <a class="navbar-brand" href="index.html">
             <span>
-              Orthoc
+              DIVINE DENTAL
             </span>
           </a>
 
