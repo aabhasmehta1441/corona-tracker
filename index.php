@@ -49,10 +49,10 @@
     </div>
 
     <!-- header section strats -->
-    <header class="header_section" style="color:black;">
+    <header class="header_section">
       <div class="container">
         <nav class="navbar navbar-expand-lg custom_nav-container ">
-          <a class="navbar-brand" href="index.html" style="color:black;>
+          <a class="navbar-brand" href="index.html">
             <span>
               DIVINE DENTAL CARE
             </span>
