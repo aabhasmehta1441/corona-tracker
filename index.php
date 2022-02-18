@@ -19,7 +19,7 @@
   <meta name="author" content="" />
   <link rel="shortcut icon" href="images/favicon.png" type="">
 
-  <title> Orthoc </title>
+  <title> DIVINE DENTAL CARE </title>
 
   <!-- bootstrap core css -->
   <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
@@ -45,7 +45,7 @@
   <div class="hero_area">
 
     <div class="hero_bg_box">
-      <img src="images/hero-bg.png" alt="">
+      <img src="images/dental-office-header.jpg" alt="">
     </div>
 
     <!-- header section strats -->
