@@ -446,7 +446,7 @@
         </div>
       </div> -->
       <div class="btn_box">
-              <a href="https://wa.me/919810413883" target="_blank" class="elementor-button-link elementor-button elementor-size-lg" role="button">
+              <a href="https://wa.me/+14165299938" target="_blank" class="elementor-button-link elementor-button elementor-size-lg" role="button">
                 <button style="background-color: #178066">
                   MAKE AN APPOINTMENT
                 </button>
