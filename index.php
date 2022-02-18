@@ -19,7 +19,7 @@
   <meta name="author" content="" />
   <link rel="shortcut icon" href="images/favicon.png" type="">
 
-  <title> DIVINE DENTAL CARE </title>
+  <title> Divine Dental Care </title>
 
   <!-- bootstrap core css -->
   <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
@@ -177,7 +177,7 @@
       <div class="container ">
         <div class="heading_container heading_center">
           <h2>
-            Our Departments
+            Our Services
           </h2>
           <p>
             Asperiores sunt consectetur impedit nulla molestiae delectus repellat laborum dolores doloremque accusantium
@@ -191,10 +191,10 @@
               </div>
               <div class="detail-box">
                 <h5>
-                  Cardiology
+                Preventative Care & Cosmetic Dentistry
                 </h5>
                 <p>
-                  fact that a reader will be distracted by the readable page when looking at its layout.
+                Preventative care is the key to a healthy smile. Regular checkups allow us to treat issues before they become a problem.  Sometimes, cosmetic dentistry is the best course of action in these cases. But whether it's elective or for treatment, we'll make sure your smile is healthy and beautiful!
                 </p>
               </div>
             </div>
@@ -206,10 +206,10 @@
               </div>
               <div class="detail-box">
                 <h5>
-                  Diagnosis
+                Emergency Care & Oral Surgery
                 </h5>
                 <p>
-                  fact that a reader will be distracted by the readable page when looking at its layout.
+                All teeth are different and accidents happen. Whether your teeth are crooked, chipped, damaged or if you've had mouth trauma, our team of endodontists, periodontists, orthodontists and oral surgeons can treat you quickly using the latest techniques and the finest materials. 
                 </p>
               </div>
             </div>
@@ -221,10 +221,10 @@
               </div>
               <div class="detail-box">
                 <h5>
-                  Surgery
+                Implant Dentistry
                 </h5>
                 <p>
-                  fact that a reader will be distracted by the readable page when looking at its layout.
+                We know the dentist can be a stressful situation for little ones. Our board certified pediatric dentists provide a safe, comfortable environment for kids of all ages. They take their time with each patient, explaining all of our tools and processes to alleviate any fear! 
                 </p>
               </div>
             </div>
@@ -236,20 +236,20 @@
               </div>
               <div class="detail-box">
                 <h5>
-                  First Aid
+                Pediatric Dentistry
                 </h5>
                 <p>
-                  fact that a reader will be distracted by the readable page when looking at its layout.
+                We know the dentist can be a stressful situation for little ones. Our board certified pediatric dentists provide a safe, comfortable environment for kids of all ages. They take their time with each patient, explaining all of our tools and processes to alleviate any fear! 
                 </p>
               </div>
             </div>
           </div>
         </div>
-        <div class="btn-box">
+        <!-- <div class="btn-box">
           <a href="">
             View All
           </a>
-        </div>
+        </div> -->
       </div>
     </div>
   </section>
