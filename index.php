@@ -92,7 +92,7 @@
     <!-- end header section -->
     <!-- slider section -->
     <section class="slider_section ">
-      <div id="customCarousel1" class="carousel slide" data-ride="carousel" style="background-color: rgba(255, 255, 255, .5);">
+      <div id="customCarousel1" class="carousel slide" data-ride="carousel" style="background-color: rgba(0, 0, 0, .5);">
         <div class="carousel-inner">
           <div class="carousel-item active">
             <div class="container ">
