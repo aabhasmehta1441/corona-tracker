@@ -49,7 +49,7 @@
     </div>
 
     <!-- header section strats -->
-    <header class="header_section" style="background-color:black;">
+    <header class="header_section" style="background-color:#178066;">
       <div class="container" >
         <nav class="navbar navbar-expand-lg custom_nav-container ">
           <a class="navbar-brand" href="index.html" style="color:black;">
@@ -446,7 +446,7 @@
         </div>
       </div> -->
       <div class="btn_box">
-              <a href="https://wa.me/+14165299938" target="_blank" class="elementor-button-link elementor-button elementor-size-lg" role="button">
+              <a href="https://wa.me/test" target="_blank" class="elementor-button-link elementor-button elementor-size-lg" role="button">
                 <button style="background-color: #178066">
                   MAKE AN APPOINTMENT
                 </button>
