@@ -295,9 +295,9 @@
         <h2>
           Our Doctors
         </h2>
-        <p class="col-md-10 mx-auto px-0">
+        <!-- <p class="col-md-10 mx-auto px-0">
           Incilint sapiente illo quo praesentium officiis laudantium nostrum, ad adipisci cupiditate sit, quisquam aliquid. Officiis laudantium fuga ad voluptas aspernatur error fugiat quos facilis saepe quas fugit, beatae id quisquam.
-        </p>
+        </p> -->
       </div>
       <div class="row">
         <!-- <div class="col-sm-6 col-lg-4 mx-auto">
@@ -355,6 +355,7 @@
               <h6 class="">
               BDS, PGCOI(MCODS)
               </h6>
+              <p>Akshit completed his Bachelor  of Dental Surgery degree at Sudha Rustagi College Of Dental Sciences and Research. He then completed Post Graduate Course In Advanced Oral Implantology at Manipal College Of Dental Sciences, Manipal. He is a member of the  Academy of Oral Implantology and Indian Dental Association. He understands the problems and pain oral and maxillofacial issues. He works with his patients to make a plan for healing and for prevention.</p>
             </div>
           </div>
         </div>
@@ -388,11 +389,11 @@
           </div>
         </div> -->
       </div>
-      <div class="btn-box">
+      <!-- <div class="btn-box">
         <a href="">
           View All
         </a>
-      </div>
+      </div> -->
     </div>
   </section>
 
