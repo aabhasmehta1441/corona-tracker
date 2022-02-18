@@ -103,7 +103,7 @@
                     <h1>
                       We Provide Best Healthcare
                     </h1>
-                    <p style="color:black;">
+                    <p>
                       Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.
                     </p>
                     <div class="btn-box">
